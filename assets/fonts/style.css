@@ -1,0 +1,93 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?9xxanq');
+  src:  url('fonts/icomoon.eot?9xxanq#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?9xxanq') format('truetype'),
+    url('fonts/icomoon.woff?9xxanq') format('woff'),
+    url('fonts/icomoon.svg?9xxanq#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow-up:before {
+  content: "\e905";
+}
+.icon-menu:before {
+  content: "\e900";
+}
+.icon-facebook_social_icon:before {
+  content: "\e906";
+}
+.icon-mail:before {
+  content: "\e901";
+}
+.icon-mappin:before {
+  content: "\e902";
+}
+.icon-car:before {
+  content: "\e903";
+}
+.icon-gps_location_map_marker_icon:before {
+  content: "\e907";
+}
+.icon-contact_email_envelope_inbox_mail_icon:before {
+  content: "\e908";
+  color: #505070;
+}
+.icon-profile_about_mobile-ui_user_icon:before {
+  content: "\e90b";
+}
+.icon-close:before {
+  content: "\e904";
+}
+.icon-camera_instagram_social-media_instagram-logo_icon .path1:before {
+  content: "\e90c";
+  color: rgb(0, 0, 0);
+}
+.icon-camera_instagram_social-media_instagram-logo_icon .path2:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(3, 4, 4);
+}
+.icon-camera_instagram_social-media_instagram-logo_icon .path3:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(3, 4, 4);
+}
+.icon-call_cellular_contact_phone_icon:before {
+  content: "\e90f";
+}
+.icon-auto_car_repair_service_icon:before {
+  content: "\e910";
+}
+.icon-phone:before {
+  content: "\e942";
+}
+.icon-location:before {
+  content: "\e947";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-whatsapp:before {
+  content: "\ea93";
+}
